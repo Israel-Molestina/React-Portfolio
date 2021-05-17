@@ -1,0 +1,11 @@
+[
+    {
+        "Title": "Wiki Pour",
+        "Description": "A CMS-style wiki where users can view, add and rate cocktail recipes created by other users on the site. The app follows MVC paradigm in it's architectural structure, using Handlebars.js as the templating language, Sequelize as the ORM and express-session npm package for authentication.",
+        "GitHub": "https://github.com/Israel-Molestina/wiki-pour",
+        "Application": "https://wiki-pour.herokuapp.com/",
+        "Image": "wiki",
+        "Alt": "Screenshot of wiki-pour webpage",
+        "Key": 1
+    }
+]
